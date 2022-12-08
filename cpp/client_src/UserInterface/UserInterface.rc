@@ -1,0 +1,5 @@
+find
+IDC_CURSOR_HVSIZE       CURSOR                  "Cursors\\cursor_hvsize.cur"
+
+add
+IDC_CURSOR_FISH         CURSOR                  "Cursors\\cursor_fish.ani"
